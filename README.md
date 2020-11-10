@@ -7,7 +7,7 @@ But this data is automatically saved in a local file so things are faster the ne
 
 To install:
 
-```pip install graze```
+```pip install babe```
 
 Then in a python console or notebook...
 
