@@ -5,6 +5,11 @@ Note that the first time you import name, you need to have access to the Interne
 
 But this data is automatically saved in a local file so things are faster the next time around.
 
+To install:
+
+```pip install graze```
+
+Then in a python console or notebook...
 
 ```python
 from babe import names_by_us_states, names_all_us_states
